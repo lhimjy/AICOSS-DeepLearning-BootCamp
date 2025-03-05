@@ -1,1 +1,1 @@
-# DeepLearning-Bootcamp
+# AICOSS-DeepLearning-Bootcamp
