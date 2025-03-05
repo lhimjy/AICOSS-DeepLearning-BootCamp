@@ -7,12 +7,12 @@
 
 <br />
 
-## 부트캠프 내용 (What We Learn...)   
+## 부트캠프 강의 내용 (What We Learn...)   
 MLT, Pytorch, CNN, Transformer, ViT
 
 <br /><br />
 
-DeepLearning ResNet34Base CustomizedCode는 임준용 학우가 작성하였고,   
+DeepLearning ResNet34Base CustomizedCode는 강의 내용을 바탕으로 임준용 학우가 작성하였고,   
 DeepLearning  Contest Final Code는 총장상(1등상)을 수여받은 3조 팀장 임준용을 포함하여, 강동훈, 김도건, 김정은 학우(전원 서울시립대생)가 작성한 것입니다.
 
 <br />
